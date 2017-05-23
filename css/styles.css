@@ -15,3 +15,7 @@ ul {
 ol {
   color: blue;
 }
+
+.pics {
+  height:300px; width:300px;
+}
